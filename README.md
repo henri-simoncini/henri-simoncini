@@ -1,31 +1,38 @@
-<h1>👋 Hello, I'm Henri <br /> 🇧🇷</h1>
+<h1>Bem-vindo ao meu espaço!<br /> 🇧🇷</h1>
 
 <br />
-<h3>🌐 Web Developer | 💻 Creativity & Technology | 🚀 Building the future of the web</h3> <br />
-<h3>🔍 About me:</h3>
-<p>I'm a brazilian Full Stack Developer committed to areas that work with creativity and innovation. I'm 18 years old and I've been studying technology since I was 14. I'm an enthusiast of modern technologies and I love working with projects that include a lot of Design! <br /> : ) </p>
+<h3>🌐 Desenvolvedor Web | 💻 Criatividade em tecnologia | 🚀 Trabalhando em projetos</h3> <br />
+<h3>Sobre mim:</h3>
+<p>Aqui você vai encontrar alguns dos projetos de um programador em formação, apaixonado por desenvolvimento front-end e back-end e com muita fome para criar sites, aplicativos e jogos.
+
+Sempre busco transformar meus hobbies favoritos — como escrever, tocar guitarra, desenvolver RPGs de mesa e criar jogos digitais — em projetos de tecnologia.
+
+Tenho experiência com Python, Java, JavaScript, PHP, CSS, linguagens de marcação de hipertexto e Excel. Atualmente estou aprofundando meus estudos em novas APIs do JavaScript e bibliotecas do Python.
+
+Tudo isso você pode conferir aqui no meu perfil!
+
+Se tiver alguma dúvida ou interesse em desenvolver um projeto juntos, é só me enviar uma mensagem no meu Discord que eu respondo.
+<br /> : ) </p>
 <div align="center">
   <img height="200em" width="39%" src="https://github-readme-stats.vercel.app/api?username=henrieb&show_icons=true&hide=stars,issues&theme=midnight-purple">
   <img height="160em" width="59%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrieb&layout=compact&theme=midnight-purple"/>
 </div>
-<h1>🏆</h1>
- 
-[![trophy](https://github-profile-trophy.vercel.app/?username=henrieb&theme=onedark&margin-w=15)](https://github.com/henrieb/github-profile-trophy)
 
-<h3>💼 Experience:</h3>
+<h3>💼 Experiência:</h3>
 <ul>
-  <li>Front-end and Back-end Development</li>
-  <li>Creating intuitive and responsive user interfaces</li>
-  <li>Integration of APIs and external services</li>
-  <li>Responsive Design, SEO, UI/UX</li>
-  <li>Computer networking</li>
-  <li>English & Portuguese language and live interactions with foreigners</li>
+  <li>Desenvolvimento Front-end e Back-end</li>
+  <li>Criação de interfaces criativas e intuitivas</li>
+  <li>Integração de APIs e outros serviços externos</li>
+  <li>Design responsivo, SEO, UI/UX</li>
+  <li>Redes e manutenção de computadores</li>
+  <li>Domínio do inglês e excelência no português</li>
+  <li>Atendimento ao público</li>
 </ul>
-<h3>🛠️ Technologies:</h3>
+<h3>🛠️ Tecnologias dominadas:</h3>
 <ul>
-  <li>Languages: HTML, CSS, Javascript, Python, Java</li>
+  <li>Linguagens: HTML, CSS, Javascript, Python, Java, PHP</li>
   <li>Frameworks: Node.js, Bootstrap, React</li>
-  <li>Tools: Photoshop, VSCode, Insomnia, Figma</li>
+  <li>Outras ferramentas: Photoshop, Figma, Canva, Excel, AutoCAD</li>
 </ul>
 <div>
 <img align="center" alt="HTMl" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
@@ -38,7 +45,7 @@
   </div>
 <div>
 <br />
-<h3>📫 Get in touch:</h3>
+<h3>📫 Entre em contato:</h3>
   
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/henri_simoncini)
 
@@ -47,4 +54,4 @@
 <li>LinkedIn: <a href="https://www.linkedin.com/in/p-henrique-simoncini-a71453276/">Click</a></li>
 </ul>
 <br />
-<h3>Kevin Powell's apprentice</h3>
+<h3><a href="https://discord.gg/k68utPfbZr">Clique aqui para entrar em contato comigo no Discord!</a></h3>

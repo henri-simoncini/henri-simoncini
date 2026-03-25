@@ -12,7 +12,7 @@ Tenho experiência com Python, Java, JavaScript, PHP, CSS, linguagens de marcaç
 Tudo isso você pode conferir aqui no meu perfil!
 
 Se tiver alguma dúvida ou interesse em desenvolver um projeto juntos, é só me enviar uma mensagem no meu Discord que eu respondo.
-<br /> : ) </p>
+<br /></p>
 <div align="center">
   <img height="200em" width="39%" src="https://github-readme-stats.vercel.app/api?username=henrieb&show_icons=true&hide=stars,issues&theme=midnight-purple">
   <img height="160em" width="59%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrieb&layout=compact&theme=midnight-purple"/>

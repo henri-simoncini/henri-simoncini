@@ -10,7 +10,7 @@ Integro fotografia ao design para criar experiências visuais únicas, atuando t
   <img height="150em" width="50%" src="https://github-readme-stats.vercel.app/api?username=henrieb&show_icons=true&hide=stars,issues&theme=midnight-purple">
   <img height="150em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrieb&layout=compact&theme=midnight-purple"/>
 </div>
-![Static Badge](https://img.shields.io/badge/just%20the%20message-8A2BE2)
+ <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 <h3>💼 Experiência:</h3>
 <ul>
   <li>Desenvolvimento Front-end e Back-end</li>

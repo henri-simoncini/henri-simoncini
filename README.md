@@ -21,7 +21,7 @@ Integro fotografia ao design para criar experiências visuais únicas, atuando t
 <br />
 <h5>🎨 Design</h5>
 <p>
-  <img src="https://img.shields.io/badge/Photoshop-20232A?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF">
+  <img src="https://img.shields.io/badge/Photoshop-001E36?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white">
   <img src="https://img.shields.io/badge/Lightroom-001E36?style=for-the-badge&logo=adobelightroom&logoColor=31A8FF">

@@ -7,8 +7,8 @@
 Integro fotografia ao design para criar experiências visuais únicas, atuando tanto no front-end quanto no back-end em projetos de diferentes níveis de complexidade.
 <br /></p>
 <div align="center">
-  <img height="150em" width="50%" src="https://github-readme-stats.vercel.app/api?username=henrieb&show_icons=true&hide=stars,issues&theme=midnight-purple">
-  <img height="150em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrieb&layout=compact&theme=midnight-purple"/>
+  <img height="150em" width="50%" src="https://github-readme-stats.vercel.app/api?username=henri-simoncini&show_icons=true&hide=stars,issues&theme=midnight-purple">
+  <img height="150em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henri-simoncini&layout=compact&theme=midnight-purple"/>
 </div>
  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 <h3>💼 Experiência:</h3>

@@ -1,23 +1,16 @@
-<h1>Bem-vindo ao meu espaço!<br /> 🇧🇷</h1>
+<h1>Fala aí, eu sou o Henri!<br /></h1>
 
 <br />
-<h3>🌐 Desenvolvedor Web | 💻 Criatividade em tecnologia | 🚀 Trabalhando em projetos</h3> <br />
+<h3>💻 Desenvolvedor Web  |  🎨 UI/UX & Web Designer  |  🖌️ Identidade Visual (Logos & Flyers)  |  📸 Fotografia Criativa</h3> <br />
 <h3>Sobre mim:</h3>
-<p>Aqui você vai encontrar alguns dos projetos de um programador em formação, apaixonado por desenvolvimento front-end e back-end e com muita fome para criar sites, aplicativos e jogos.
-
-Sempre busco transformar meus hobbies favoritos — como escrever, tocar guitarra, desenvolver RPGs de mesa e criar jogos digitais — em projetos de tecnologia.
-
-Tenho experiência com Python, Java, JavaScript, PHP, CSS, linguagens de marcação de hipertexto e Excel. Atualmente estou aprofundando meus estudos em novas APIs do JavaScript e bibliotecas do Python.
-
-Tudo isso você pode conferir aqui no meu perfil!
-
-Se tiver alguma dúvida ou interesse em desenvolver um projeto juntos, é só me enviar uma mensagem no meu Discord que eu respondo.
+<p>Desenvolvo sistemas e websites sob medida, focados nas necessidades do cliente.
+Integro fotografia ao design para criar experiências visuais únicas, atuando tanto no front-end quanto no back-end em projetos de diferentes níveis de complexidade.
 <br /></p>
 <div align="center">
-  <img height="200em" width="39%" src="https://github-readme-stats.vercel.app/api?username=henrieb&show_icons=true&hide=stars,issues&theme=midnight-purple">
-  <img height="160em" width="59%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrieb&layout=compact&theme=midnight-purple"/>
+  <img height="150em" width="50%" src="https://github-readme-stats.vercel.app/api?username=henrieb&show_icons=true&hide=stars,issues&theme=midnight-purple">
+  <img height="150em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrieb&layout=compact&theme=midnight-purple"/>
 </div>
-
+![Static Badge](https://img.shields.io/badge/just%20the%20message-8A2BE2)
 <h3>💼 Experiência:</h3>
 <ul>
   <li>Desenvolvimento Front-end e Back-end</li>

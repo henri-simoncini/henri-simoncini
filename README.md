@@ -7,21 +7,32 @@
 Integro fotografia ao design para criar experiências visuais únicas, atuando tanto no front-end quanto no back-end em projetos de diferentes níveis de complexidade.
 <br /></p>
 <h3>Tecnologias que domino:</h3>
+<h5>💻 Desenvolvimento</h5>
 <p>
- <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
- <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
- <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
- <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
- <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
- <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
- <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
- <img src="https://img.shields.io/badge/Photoshop-001E36?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF">
- <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
- <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white">
- <img src="https://img.shields.io/badge/Lightroom-001E36?style=for-the-badge&logo=adobelightroom&logoColor=31A8FF">
- <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white">
- <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
- </p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+</p>
+<br />
+<h5>🎨 Design</h5>
+<p>
+  <img src="https://img.shields.io/badge/Photoshop-001E36?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white">
+  <img src="https://img.shields.io/badge/Lightroom-001E36?style=for-the-badge&logo=adobelightroom&logoColor=31A8FF">
+</p>
+<br />
+<h5>📊 Produtividade</h5>
+<p>
+ <img src="https://img.shields.io/badge/Google%20Docs-4285F4?style=for-the-badge&logo=googledocs&logoColor=white">
+ <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge\&logo=googlesheets\&logoColor=white">
+</p>
+
 <h3>💼 Experiência:</h3>
 <ul>
   <li>Desenvolvimento Front-end e Back-end</li>

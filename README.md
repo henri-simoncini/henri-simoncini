@@ -1,6 +1,6 @@
 <h1>Fala aí, eu sou o Henri!<br /></h1>
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif">
+  <img src="https://media1.tenor.com/m/bC46isnYvywAAAAC/coding.gif" width="100%" height="150px">
 </p>
 <br />
 <h3>💻 Desenvolvedor Web  |  🎨 UI/UX & Web Designer  |  🖌️ Identidade Visual (Logos & Flyers)  |  📸 Fotografia Criativa</h3>

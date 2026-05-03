@@ -2,7 +2,6 @@
 
 <br />
 <h3>💻 Desenvolvedor Web  |  🎨 UI/UX & Web Designer  |  🖌️ Identidade Visual (Logos & Flyers)  |  📸 Fotografia Criativa</h3>
-<hr>
 <h3>Sobre mim:</h3>
 <p>Desenvolvo sistemas e websites sob medida, focados nas necessidades do cliente.
 Integro fotografia ao design para criar experiências visuais únicas, atuando tanto no front-end quanto no back-end em projetos de diferentes níveis de complexidade.
@@ -35,6 +34,7 @@ Integro fotografia ao design para criar experiências visuais únicas, atuando t
   <img src="https://img.shields.io/badge/Google%20Sheets-0F9D58?style=for-the-badge&logo=googlesheets&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </p>
+<br />
 <hr>
 <h3>Minha formação acadêmica:</h3>
 <ul>

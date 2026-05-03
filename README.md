@@ -46,24 +46,18 @@ Integro fotografia ao design para criar experiências visuais únicas, atuando t
   <i>Tecnologia em Sistemas Computacionais (cursando)</i></li>
 </ul>
 <hr>
-<h3>Experiências:</h3>
+<h3>🎮 Projeto em destaque:</h3>
+<h4>🌙 Lunaris RPG</h4>
+<b>Sistema de RPG com:</b>
 <ul>
-  <li></li>
-  <li>Criação de interfaces criativas e intuitivas</li>
-  <li>Integração de APIs e outros serviços externos</li>
-  <li>Design responsivo, SEO, UI/UX</li>
-  <li>Redes e manutenção de computadores</li>
-  <li>Domínio do inglês e excelência no português</li>
-  <li>Atendimento ao público</li>
+  <li>Magias e Feitiços únicos (Básicos, Elementares, Artificiais, Especiais, Derivados)</li>
+  <li>Criação de personagem diversificada</li>
+  <li>Mundo próprio: Erídanus</li>
 </ul>
-<div>
-</div>
-<div>
+<b>👉 Em desenvolvimento</b>
 <br />
-<h3>📫 Entre em contato:</h3>
-  
 
-
+<h3>📫 Entre em contato:</h3>  
 <ul> 
 <li>Email: ph.simoncini@gmail.com</li>
 <li>LinkedIn: <a href="https://www.linkedin.com/in/p-henrique-simoncini-a71453276/">Click</a></li>

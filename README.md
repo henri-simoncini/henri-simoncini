@@ -33,10 +33,19 @@ Integro fotografia ao design para criar experiências visuais únicas, atuando t
   <img src="https://img.shields.io/badge/Google%20Sheets-0F9D58?style=for-the-badge&logo=googlesheets&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </p>
-
-<h3>💼 Experiência:</h3>
+<h3>Minha formação acadêmica:</h3>
 <ul>
-  <li>Desenvolvimento Front-end e Back-end</li>
+  <li><b>🎓 Instituto Federal do Rio de Janeiro</b><br />
+  <i>Ensino Médio Técnico Integrado em Informática</i></li>
+  <li><b>🎓 SAYS Centro de Ensino</b><br />
+  <i>Inglês Avançado (2017 – 2023)</i></li>
+  <li><b>🎓 Universidade Federal Fluminense (via CEDERJ)</b><br />
+  <i>Tecnologia em Sistemas Computacionais (cursando)</i></li>
+</ul>
+
+<h3>Experiências:</h3>
+<ul>
+  <li></li>
   <li>Criação de interfaces criativas e intuitivas</li>
   <li>Integração de APIs e outros serviços externos</li>
   <li>Design responsivo, SEO, UI/UX</li>
@@ -44,26 +53,13 @@ Integro fotografia ao design para criar experiências visuais únicas, atuando t
   <li>Domínio do inglês e excelência no português</li>
   <li>Atendimento ao público</li>
 </ul>
-
-<ul>
-  <li>Linguagens: HTML, CSS, Javascript, Python, Java, PHP</li>
-  <li>Frameworks: Node.js, Bootstrap, React</li>
-  <li>Outras ferramentas: Photoshop, Figma, Canva, Excel, AutoCAD</li>
-</ul>
 <div>
-<img align="center" alt="HTMl" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-  <img align="center" alt="CSS"  height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>    
-  <img align="center" alt="JavaScript"   height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-  <img align="center" alt="Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-  <img align="center" alt="Python"   height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-  <img align="center" alt="PHP"  height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
-  <img align="center" alt="SQL"  height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  </div>
+</div>
 <div>
 <br />
 <h3>📫 Entre em contato:</h3>
   
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/henri_simoncini)
+
 
 <ul> 
 <li>Email: ph.simoncini@gmail.com</li>

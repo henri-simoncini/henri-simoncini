@@ -47,6 +47,9 @@ Integro fotografia ao design para criar experiências visuais únicas, atuando t
   <i>Tecnologia em Sistemas Computacionais (cursando)</i></li>
 </ul>
 <hr>
+<p align="left">
+  <img src="https://media.tenor.com/OEAjabUzGKEAAAAi/microsoft-computer.gif" height="50px">
+</p>
 <h3>🎮 Projeto em destaque:</h3>
 <h4>🌙 Lunaris RPG</h4>
 <b>Sistema de RPG com:</b>

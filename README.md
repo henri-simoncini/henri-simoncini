@@ -7,6 +7,7 @@
 <p>Desenvolvo sistemas e websites sob medida, focados nas necessidades do cliente.
 Integro fotografia ao design para criar experiências visuais únicas, atuando tanto no front-end quanto no back-end em projetos de diferentes níveis de complexidade.
 <br /></p>
+<hr>
 <h3>Tecnologias que domino:</h3>
 <h5>💻 Desenvolvimento</h5>
 <p>
@@ -34,6 +35,7 @@ Integro fotografia ao design para criar experiências visuais únicas, atuando t
   <img src="https://img.shields.io/badge/Google%20Sheets-0F9D58?style=for-the-badge&logo=googlesheets&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </p>
+<hr>
 <h3>Minha formação acadêmica:</h3>
 <ul>
   <li><b>🎓 Instituto Federal do Rio de Janeiro</b><br />
@@ -43,7 +45,7 @@ Integro fotografia ao design para criar experiências visuais únicas, atuando t
   <li><b>🎓 Universidade Federal Fluminense (via CEDERJ)</b><br />
   <i>Tecnologia em Sistemas Computacionais (cursando)</i></li>
 </ul>
-
+<hr>
 <h3>Experiências:</h3>
 <ul>
   <li></li>

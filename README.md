@@ -6,7 +6,6 @@
 <h3>Sobre mim:</h3>
 <p>Desenvolvo sistemas e websites sob medida, focados nas necessidades do cliente.
 Integro fotografia ao design para criar experiências visuais únicas, atuando tanto no front-end quanto no back-end em projetos de diferentes níveis de complexidade.</p>
-<br />
 <hr>
 <h3>Tecnologias que domino:</h3>
 <h5>💻 Desenvolvimento</h5>
@@ -33,7 +32,6 @@ Integro fotografia ao design para criar experiências visuais únicas, atuando t
   <img src="https://img.shields.io/badge/Google%20Sheets-0F9D58?style=for-the-badge&logo=googlesheets&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </p>
-<br />
 <hr>
 <h3>Minha formação acadêmica:</h3>
 <ul>
@@ -44,7 +42,6 @@ Integro fotografia ao design para criar experiências visuais únicas, atuando t
   <li><b>🎓 Universidade Federal Fluminense (via CEDERJ)</b><br />
   <i>Tecnologia em Sistemas Computacionais (cursando)</i></li>
 </ul>
-<br />
 <hr>
 <h3>🎮 Projeto em destaque:</h3>
 <h4>🌙 Lunaris RPG</h4>
@@ -55,7 +52,6 @@ Integro fotografia ao design para criar experiências visuais únicas, atuando t
   <li>Mundo próprio: Erídanus</li>
 </ul>
 <b>👉 Em desenvolvimento</b>
-<br />
 <hr>
 <h3>Entre em contato:</h3>
 <br />

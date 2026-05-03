@@ -1,6 +1,6 @@
 <h1>Fala aí, eu sou o Henri!<br /></h1>
 <p align="center">
-  <img src="https://media.tenor.com/dHk-LfzHrtwAAAAi/linux-computer.gif" width="100%" height="150px">
+  <img src="https://media.tenor.com/dHk-LfzHrtwAAAAi/linux-computer.gif">
 </p>
 <h3>💻 Desenvolvedor Web  |  🎨 UI/UX & Web Designer  |  🖌️ Identidade Visual (Logos & Flyers)  |  📸 Fotografia Criativa</h3>
 <h3>Sobre mim:</h3>

@@ -56,11 +56,8 @@ Integro fotografia ao design para criar experiências visuais únicas, atuando t
 </ul>
 <b>👉 Em desenvolvimento</b>
 <br />
-
-<h3>📫 Entre em contato:</h3>  
-<ul> 
-<li>Email: ph.simoncini@gmail.com</li>
-<li>LinkedIn: <a href="https://www.linkedin.com/in/p-henrique-simoncini-a71453276/">Click</a></li>
-</ul>
+<hr>
+<h3>Entre em contato:</h3>  
+<img src="https://github-readme-stats.vercel.app/api?username=henri-simoncini\&show_icons=true\&theme=tokyonight">
 <br />
 <h3><a href="https://discord.gg/k68utPfbZr">Clique aqui para entrar em contato comigo no Discord!</a></h3>

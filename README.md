@@ -5,8 +5,8 @@
 <h5>💻 Desenvolvedor Web  |  🎨 UI/UX & Web Designer  |  🖌️ Identidade Visual (Logos & Flyers)  |  📸 Fotografia Criativa</h5>
 <h3>Sobre mim:</h3>
 <p>Desenvolvo sistemas e websites sob medida, focados nas necessidades do cliente.
-Integro fotografia ao design para criar experiências visuais únicas, atuando tanto no front-end quanto no back-end em projetos de diferentes níveis de complexidade.
-<br /></p>
+Integro fotografia ao design para criar experiências visuais únicas, atuando tanto no front-end quanto no back-end em projetos de diferentes níveis de complexidade.</p>
+<br />
 <hr>
 <h3>Tecnologias que domino:</h3>
 <h5>💻 Desenvolvimento</h5>
@@ -44,6 +44,7 @@ Integro fotografia ao design para criar experiências visuais únicas, atuando t
   <li><b>🎓 Universidade Federal Fluminense (via CEDERJ)</b><br />
   <i>Tecnologia em Sistemas Computacionais (cursando)</i></li>
 </ul>
+<br />
 <hr>
 <h3>🎮 Projeto em destaque:</h3>
 <h4>🌙 Lunaris RPG</h4>
@@ -67,5 +68,5 @@ Integro fotografia ao design para criar experiências visuais únicas, atuando t
 </p>
 <br />
 <p align="left">
-  <img src="https://media.tenor.com/OEAjabUzGKEAAAAi/microsoft-computer.gif" height="50px">
+  <img src="https://media.tenor.com/OEAjabUzGKEAAAAi/microsoft-computer.gif" height="100px">
 </p>

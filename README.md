@@ -1,7 +1,8 @@
 <h1>Fala aí, eu sou o Henri!<br /></h1>
 
 <br />
-<h3>💻 Desenvolvedor Web  |  🎨 UI/UX & Web Designer  |  🖌️ Identidade Visual (Logos & Flyers)  |  📸 Fotografia Criativa</h3> <br />
+<h3>💻 Desenvolvedor Web  |  🎨 UI/UX & Web Designer  |  🖌️ Identidade Visual (Logos & Flyers)  |  📸 Fotografia Criativa</h3>
+<hr>
 <h3>Sobre mim:</h3>
 <p>Desenvolvo sistemas e websites sob medida, focados nas necessidades do cliente.
 Integro fotografia ao design para criar experiências visuais únicas, atuando tanto no front-end quanto no back-end em projetos de diferentes níveis de complexidade.

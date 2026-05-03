@@ -47,9 +47,6 @@ Integro fotografia ao design para criar experiências visuais únicas, atuando t
   <i>Tecnologia em Sistemas Computacionais (cursando)</i></li>
 </ul>
 <hr>
-<p align="left">
-  <img src="https://media.tenor.com/OEAjabUzGKEAAAAi/microsoft-computer.gif" height="50px">
-</p>
 <h3>🎮 Projeto em destaque:</h3>
 <h4>🌙 Lunaris RPG</h4>
 <b>Sistema de RPG com:</b>
@@ -61,6 +58,13 @@ Integro fotografia ao design para criar experiências visuais únicas, atuando t
 <b>👉 Em desenvolvimento</b>
 <br />
 <hr>
-<h3>Entre em contato:</h3>  
+<h3>Entre em contato:</h3>
+<a><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
+<a><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+<a><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a><img src="https://img.shields.io/badge/Linktree-43E55E?style=for-the-badge&logo=linktree&logoColor=black"></a>
 <br />
-<h3><a href="https://discord.gg/k68utPfbZr">Clique aqui para entrar em contato comigo no Discord!</a></h3>
+<p align="left">
+  <img src="https://media.tenor.com/OEAjabUzGKEAAAAi/microsoft-computer.gif" height="50px">
+</p>

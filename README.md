@@ -58,6 +58,6 @@ Integro fotografia ao design para criar experiências visuais únicas, atuando t
 <br />
 <hr>
 <h3>Entre em contato:</h3>  
-<img src="https://github-readme-stats.vercel.app/api?username=henri-simoncini\&show_icons=true\&theme=tokyonight">
+<img src="https://github-readme-stats.vercel.app/api?username=henrieb\&show_icons=true\&theme=tokyonight">
 <br />
 <h3><a href="https://discord.gg/k68utPfbZr">Clique aqui para entrar em contato comigo no Discord!</a></h3>

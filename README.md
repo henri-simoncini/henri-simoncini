@@ -1,5 +1,7 @@
 <h1>Fala aí, eu sou o Henri!<br /></h1>
-
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif">
+</p>
 <br />
 <h3>💻 Desenvolvedor Web  |  🎨 UI/UX & Web Designer  |  🖌️ Identidade Visual (Logos & Flyers)  |  📸 Fotografia Criativa</h3>
 <h3>Sobre mim:</h3>
@@ -58,6 +60,5 @@ Integro fotografia ao design para criar experiências visuais únicas, atuando t
 <br />
 <hr>
 <h3>Entre em contato:</h3>  
-<img src="https://github-readme-stats.vercel.app/api?username=henrieb\&show_icons=true\&theme=tokyonight">
 <br />
 <h3><a href="https://discord.gg/k68utPfbZr">Clique aqui para entrar em contato comigo no Discord!</a></h3>

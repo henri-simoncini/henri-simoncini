@@ -45,11 +45,11 @@ Integro fotografia ao design para criar experiências visuais únicas, atuando t
 <hr>
 <h3>Projeto em destaque:</h3>
 <h4>🌙 Lunaris RPG</h4>
-<b>Sistema de RPG com:</b>
+> Sistema de RPG
 <ul>
-  > <li>Magias e Feitiços únicos (Básicos, Elementares, Artificiais, Especiais, Derivados)</li>
-  > <li>Criação de personagem diversificada</li>
-  > <li>Mundo próprio: Erídanus</li>
+   <li>Magias e Feitiços únicos (Básicos, Elementares, Artificiais, Especiais, Derivados)</li>
+   <li>Criação de personagem diversificada</li>
+   <li>Mundo próprio: Erídanus</li>
 </ul>
 <b><img src="https://media.tenor.com/OEAjabUzGKEAAAAi/microsoft-computer.gif" height="24px">  Em desenvolvimento</b>
 <hr>

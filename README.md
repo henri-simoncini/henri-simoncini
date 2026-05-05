@@ -63,7 +63,7 @@ Integro fotografia ao design para criar experiências visuais únicas, atuando t
   <a href="https://henri-simoncini.github.io/linktree/"><img src="https://img.shields.io/badge/Linktree-43E55E?style=for-the-badge&logo=linktree&logoColor=black"></a>
 </p>
 <br />
-<img src="https://visitor-badge.laobi.icu/badge?page_id=henri-simoncini.henri-simoncini&left_color=302b63&right_color=a78bfa&left_text=Visitantes">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=henri-simoncini.henri-simoncini&left_color=dcf908&right_color=121212&left_text=Viewers">
 <p align="left">
   <img src="https://media.tenor.com/OEAjabUzGKEAAAAi/microsoft-computer.gif" height="100px">
 </p>

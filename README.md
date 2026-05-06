@@ -4,7 +4,7 @@
 </p>
 <h5>💻 Desenvolvedor Web  |  🎨 UI/UX & Web Designer  |  🖌️ Identidade Visual (Logos & Flyers)  |  📸 Fotografia Criativa</h5>
 <p width="100%">
-  <p width="50%">
+  <p width="50%" align="center">
     <h3>Sobre mim:</h3>
     <p>Desenvolvo sistemas e websites sob medida, focados nas necessidades do cliente.
     Integro fotografia ao design para criar experiências visuais únicas, atuando tanto no front-end quanto no back-end em projetos de diferentes níveis de complexidade.</p>

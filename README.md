@@ -50,8 +50,8 @@
     <h3>Projeto em destaque:</h3>
     <h4>inDash</h4>
     <h5><i>Dashboard e gerenciamento para Freelancers <br /></i></h5>
-    <sub>Gráficos inteligentes</sub>
-    <sub>Agendas personalizadas</sub>
+    <sub>Gráficos inteligentes</sub><br />
+    <sub>Agendas personalizadas</sub><br />
     <sub>Gestão financeira</sub>
     <b><sub>Em desenvolvimento</sub></b><br /><br />
     <img src="https://media.tenor.com/OEAjabUzGKEAAAAi/microsoft-computer.gif" height="24px">   

@@ -50,7 +50,7 @@
     <h3>Projeto em destaque:</h3>
     <h4>inDash</h4>
     <i>Dashboard e gerenciamento para Freelancers</i>
-    <i></i>
+    <i>a</i>
     <br />
     <ul>
        <li><sub>Gráficos inteligentes</sub></li>

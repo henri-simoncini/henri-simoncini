@@ -59,9 +59,9 @@
     </p>
     <hr>
     <h3>Certificações:</h3>
-    <img src="https://img.shields.io/badge/IFRJ-Ensino%20Técnico%20em%20Informática-006837?style=for-the-badge">
-    <img src="https://img.shields.io/badge/UFF-Sistemas%20Computacionais-005CA9?style=for-the-badge">
-    <img src="https://img.shields.io/badge/Alura-Cursos%20de%20Tecnologia-0A0A23?style=for-the-badge\&logo=alura\&logoColor=00FF88">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Logotipo_IFET.svg/250px-Logotipo_IFET.svg.png">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Logo_UFF_%28blue%29.svg/1280px-Logo_UFF_%28blue%29.svg.png">
+    <img src="https://s.zst.com.br/prod/cupons/19290-Logo-200x200.png">
     </td>
   </tr>
 </table>

@@ -10,28 +10,6 @@
     <p>Desenvolvo sistemas e websites sob medida, focados nas necessidades do cliente.
     Integro fotografia ao design para criar experiências visuais únicas, atuando tanto no front-end quanto no back-end em projetos de diferentes níveis de complexidade.</p>
     <hr>
-    <h3>Minha formação acadêmica:</h3>
-    <ul>
-      <li><b>🎓 Instituto Federal do Rio de Janeiro</b><br />
-      <sub><i>Ensino Médio Técnico Integrado em Informática</i></li></sub>
-      <li><b>🎓 SAYS Centro de Ensino</b><br />
-      <sub><i>Inglês Avançado (2017 – 2023)</i></li></sub>
-      <li><b>🎓 Universidade Federal Fluminense (via CEDERJ)</b><br />
-      <sub><i>Tecnologia em Sistemas Computacionais (cursando)</i></li></sub>
-    </ul>
-      <hr>
-    <h3>Projeto em destaque:</h3>
-    <h4>inDash</h4>
-    <h5><i>Dashboard e gerenciamento para Freelancers <br /></i></h5>
-    <ul>
-       <li><sub>Gráficos inteligentes</sub></li>
-       <li><sub>Agendas personalizadas</sub></li>
-       <li><sub>Gestão financeira</sub></li>
-    </ul>    
-    <b><sub>Em desenvolvimento</sub></b><br /><br />
-    <img src="https://media.tenor.com/OEAjabUzGKEAAAAi/microsoft-computer.gif" height="24px">   
-    </td>
-    <td width="50%" valign="top">
     <h3>Tecnologias que domino:</h3>
     <h5>💻 Desenvolvimento</h5>
     <p>
@@ -57,10 +35,28 @@
       <img src="https://img.shields.io/badge/Google%20Sheets-0F9D58?style=for-the-badge&logo=googlesheets&logoColor=white">
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
     </p>
+    </td>
+    <td width="50%" valign="top">
+    <h3>Minha formação acadêmica:</h3>
+    <ul>
+      <li><b>🎓 Instituto Federal do Rio de Janeiro</b><br />
+      <sub><i>Ensino Médio Técnico Integrado em Informática</i></li></sub>
+      <li><b>🎓 SAYS Centro de Ensino</b><br />
+      <sub><i>Inglês Avançado (2017 – 2023)</i></li></sub>
+      <li><b>🎓 Universidade Federal Fluminense (via CEDERJ)</b><br />
+      <sub><i>Tecnologia em Sistemas Computacionais (cursando)</i></li></sub>
+    </ul>
     <hr>
-    <h3>Certificações:</h3>
-      <img src="https://github-readme-stats.vercel.app/api?username=henri-simoncini&show_icons=true&theme=tokyonight" height="150"/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=henri-simoncini&layout=compact&theme=tokyonight" height="150"/>
+    <h3>Projeto em destaque:</h3>
+    <h4>inDash</h4>
+    <h5><i>Dashboard e gerenciamento para Freelancers <br /></i></h5>
+    <ul>
+       <li><sub>Gráficos inteligentes</sub></li>
+       <li><sub>Agendas personalizadas</sub></li>
+       <li><sub>Gestão financeira</sub></li>
+    </ul>    
+    <b><sub>Em desenvolvimento</sub></b><br /><br />
+    <img src="https://media.tenor.com/OEAjabUzGKEAAAAi/microsoft-computer.gif" height="24px">   
     </td>
   </tr>
 </table>

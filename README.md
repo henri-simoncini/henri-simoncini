@@ -59,10 +59,8 @@
     </p>
     <hr>
     <h3>Certificações:</h3>
-    <p align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=henri-simoncini&show_icons=true&theme=tokyonight" height="150"/>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=henri-simoncini&layout=compact&theme=tokyonight" height="150"/>
-    </p>
     </td>
   </tr>
 </table>

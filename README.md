@@ -40,11 +40,11 @@
     <h3>Minha formação acadêmica:</h3>
     <ul>
       <li><b>🎓 Instituto Federal do Rio de Janeiro</b><br />
-      <i>Ensino Médio Técnico Integrado em Informática</i></li>
+      <i>.... Ensino Médio Técnico Integrado em Informática</i></li>
       <li><b>🎓 SAYS Centro de Ensino</b><br />
-      <i>Inglês Avançado (2017 – 2023)</i></li>
+      <i>.... Inglês Avançado (2017 – 2023)</i></li>
       <li><b>🎓 Universidade Federal Fluminense (via CEDERJ)</b><br />
-      <i>Tecnologia em Sistemas Computacionais (cursando)</i></li>
+      <i>.... Tecnologia em Sistemas Computacionais (cursando)</i></li>
     </ul>
     <hr>
     <h3>Projeto em destaque:</h3>
@@ -59,11 +59,8 @@
     </td>
   </tr>
 </table>
-<br />
 <h3>Entre em contato:</h3>
-<br />
 <p>
-  
   <a href="https://www.instagram.com/henriq.devdesign/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="https://discord.gg/xZh9Z6ECf8"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
   <a href="https://api.whatsapp.com/send/?phone=5522981600830&type=phone_number&app_absent=0"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>

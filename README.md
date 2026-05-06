@@ -47,7 +47,6 @@
       <sub><i>Tecnologia em Sistemas Computacionais (cursando)</i></li></sub>
     </ul>
     <hr>
-    <img src="https://media.tenor.com/OEAjabUzGKEAAAAi/microsoft-computer.gif" height="20px">
     <h3>Projeto em destaque:</h3>
     <h4>inDash</h4>
     <sup><i>Dashboard e gerenciamento para Freelancers</i></sup>

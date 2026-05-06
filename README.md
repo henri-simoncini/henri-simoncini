@@ -48,7 +48,8 @@
     </ul>
     <hr>
     <h3>Projeto em destaque:</h3>
-    <h4><img src="https://media.tenor.com/OEAjabUzGKEAAAAi/microsoft-computer.gif" height="24px"> InDash</h4>
+    <img src="https://media.tenor.com/OEAjabUzGKEAAAAi/microsoft-computer.gif" height="24px">
+    <h4>InDash</h4>
     <sup><i>Dashboard e gerenciamento para Freelancers</i></sup>
     <ul>
        <li>Gráficos inteligentes</li>

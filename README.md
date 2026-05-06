@@ -56,7 +56,13 @@
       <img src="https://img.shields.io/badge/Google%20Docs-4285F4?style=for-the-badge&logo=googledocs&logoColor=white">
       <img src="https://img.shields.io/badge/Google%20Sheets-0F9D58?style=for-the-badge&logo=googlesheets&logoColor=white">
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-    </p>   
+    </p>
+    <hr>
+    ## 🎓 Certificações
+[![IFRJ](https://img.shields.io/badge/IFRJ-Ensino%20Técnico%20em%20Informática-006837?style=for-the-badge)](LINK)
+[![UFF](https://img.shields.io/badge/UFF-Sistemas%20Computacionais-005CA9?style=for-the-badge)](LINK)
+[![Alura](https://img.shields.io/badge/Alura-Cursos%20de%20Tecnologia-0A0A23?style=for-the-badge\&logo=alura\&logoColor=00FF88)](LINK)
+
     </td>
   </tr>
 </table>

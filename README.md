@@ -51,11 +51,12 @@
     <h4>inDash</h4>
     <sup><i>Dashboard e gerenciamento para Freelancers</i></sup>
     <ul>
-       <li>Gráficos inteligentes</li>
-       <li>Agendas personalizadas</li>
-       <li>Gestão financeira</li>
+       <li><sub>Gráficos inteligentes</sub></li>
+       <li><sub>Agendas personalizadas</sub></li>
+       <li><sub>Gestão financeira</sub></li>
     </ul>
     <b>📌 Em desenvolvimento</b>
+    <img src="https://media.tenor.com/OEAjabUzGKEAAAAi/microsoft-computer.gif" height="24px">
     </td>
   </tr>
 </table>

@@ -55,7 +55,7 @@
        <li><sub>Agendas personalizadas</sub></li>
        <li><sub>Gestão financeira</sub></li>
     </ul>    
-    <b>Em desenvolvimento</b><br />
+    <b>Em desenvolvimento</b><br /><br />
     <img src="https://media.tenor.com/OEAjabUzGKEAAAAi/microsoft-computer.gif" height="24px">      
     </td>
   </tr>

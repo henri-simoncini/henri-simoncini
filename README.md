@@ -40,11 +40,11 @@
     <h3>Minha formação acadêmica:</h3>
     <ul>
       <li><b>🎓 Instituto Federal do Rio de Janeiro</b><br />
-      <i>.... Ensino Médio Técnico Integrado em Informática</i></li>
+      <sub><i>.... Ensino Médio Técnico Integrado em Informática</i></li></sub>
       <li><b>🎓 SAYS Centro de Ensino</b><br />
-      <i>.... Inglês Avançado (2017 – 2023)</i></li>
+      <sub><i>.... Inglês Avançado (2017 – 2023)</i></li></sub>
       <li><b>🎓 Universidade Federal Fluminense (via CEDERJ)</b><br />
-      <i>.... Tecnologia em Sistemas Computacionais (cursando)</i></li>
+      <sub><i>.... Tecnologia em Sistemas Computacionais (cursando)</i></li></sub>
     </ul>
     <hr>
     <h3>Projeto em destaque:</h3>

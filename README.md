@@ -3,8 +3,9 @@
   <img src="https://media.tenor.com/dHk-LfzHrtwAAAAi/linux-computer.gif" height="50px">
 </p>
 <h5>💻 Desenvolvedor Web  |  🎨 UI/UX & Web Designer  |  🖌️ Identidade Visual (Logos & Flyers)  |  📸 Fotografia Criativa</h5>
-<div width="100%">
-  <div width="50%" align="center">
+<table>
+  <tr>
+    <td width="50%" valign="top">
     <h3>Sobre mim:</h3>
     <p>Desenvolvo sistemas e websites sob medida, focados nas necessidades do cliente.
     Integro fotografia ao design para criar experiências visuais únicas, atuando tanto no front-end quanto no back-end em projetos de diferentes níveis de complexidade.</p>
@@ -34,8 +35,8 @@
       <img src="https://img.shields.io/badge/Google%20Sheets-0F9D58?style=for-the-badge&logo=googlesheets&logoColor=white">
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
     </p>
-  </div>
-  <div width="50%">
+    </td>
+    <td width="50%" valign="top">
     <h3>Minha formação acadêmica:</h3>
     <ul>
       <li><b>🎓 Instituto Federal do Rio de Janeiro</b><br />
@@ -48,15 +49,17 @@
     <hr>
     <h3>Projeto em destaque:</h3>
     <h4>🌙 Lunaris RPG</h4>
-    > Sistema de RPG
+    <i>Sistema de RPG</i>
     <ul>
        <li>Magias e Feitiços únicos (Básicos, Elementares, Artificiais, Especiais, Derivados)</li>
        <li>Criação de personagem diversificada</li>
        <li>Mundo próprio: Erídanus</li>
     </ul>
     <b><img src="https://media.tenor.com/OEAjabUzGKEAAAAi/microsoft-computer.gif" height="24px">  Em desenvolvimento</b>
-  </div>
-</div>
+    </td>
+  </tr>
+</table>
+<br />
 <h3>Entre em contato:</h3>
 <br />
 <p>

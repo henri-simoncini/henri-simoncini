@@ -59,9 +59,10 @@
     </p>
     <hr>
     <h3>Certificações:</h3>
-    <img width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Logotipo_IFET.svg/250px-Logotipo_IFET.svg.png">
-    <img width="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Logo_UFF_%28blue%29.svg/1280px-Logo_UFF_%28blue%29.svg.png">
-    <img width="50px" src="https://camo.githubusercontent.com/3bdb03b44ddda660e8d3457d2b96d5a6c3310f9b5698e1a7f156a37afc9a1e60/68747470733a2f2f706c61792d6c682e676f6f676c6575736572636f6e74656e742e636f6d2f49444c5a5857484c4356756e343238675f59476e523248676e6f49556c49524e666b6d45454d30686d727a68424b5a72684a3555774d305f6548615751543467584173">
+    <p align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=henri-simoncini&show_icons=true&theme=tokyonight" height="150"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=henri-simoncini&layout=compact&theme=tokyonight" height="150"/>
+    </p>
     </td>
   </tr>
 </table>

@@ -53,7 +53,7 @@
     <sub>Gráficos inteligentes</sub><br />
     <sub>Agendas personalizadas</sub><br />
     <sub>Gestão financeira</sub><br />
-    <b><sub>Em desenvolvimento</sub></b><br /><br />
+    <b><sub>👉 Em desenvolvimento</sub></b><br /><br />
     <img src="https://media.tenor.com/OEAjabUzGKEAAAAi/microsoft-computer.gif" height="24px">   
     </td>
   </tr>

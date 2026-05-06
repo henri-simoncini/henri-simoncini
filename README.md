@@ -40,22 +40,22 @@
     <h3>Minha formação acadêmica:</h3>
     <ul>
       <li><b>🎓 Instituto Federal do Rio de Janeiro</b><br />
-      <sub><i>.... Ensino Médio Técnico Integrado em Informática</i></li></sub>
+      <sub><i>Ensino Médio Técnico Integrado em Informática</i></li></sub>
       <li><b>🎓 SAYS Centro de Ensino</b><br />
-      <sub><i>.... Inglês Avançado (2017 – 2023)</i></li></sub>
+      <sub><i>Inglês Avançado (2017 – 2023)</i></li></sub>
       <li><b>🎓 Universidade Federal Fluminense (via CEDERJ)</b><br />
-      <sub><i>.... Tecnologia em Sistemas Computacionais (cursando)</i></li></sub>
+      <sub><i>Tecnologia em Sistemas Computacionais (cursando)</i></li></sub>
     </ul>
     <hr>
     <h3>Projeto em destaque:</h3>
-    <h4>🌙 Lunaris RPG</h4>
-    <i>Sistema de RPG</i>
+    <h4><img src="https://media.tenor.com/OEAjabUzGKEAAAAi/microsoft-computer.gif" height="24px"> InDash</h4>
+    <sup><i>Dashboard e gerenciamento para Freelancers</i></sup>
     <ul>
-       <li>Magias e Feitiços únicos (Básicos, Elementares, Artificiais, Especiais, Derivados)</li>
-       <li>Criação de personagem diversificada</li>
-       <li>Mundo próprio: Erídanus</li>
+       <li>Gráficos inteligentes</li>
+       <li>Agendas personalizadas</li>
+       <li>Gestão financeira</li>
     </ul>
-    <b><img src="https://media.tenor.com/OEAjabUzGKEAAAAi/microsoft-computer.gif" height="24px">  Em desenvolvimento</b>
+    <b>📌 Em desenvolvimento</b>
     </td>
   </tr>
 </table>

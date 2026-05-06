@@ -52,6 +52,7 @@
     <i>Dashboard e gerenciamento para Freelancers</i>
     <br />
     <ul>
+      <br />
        <li><sub>Gráficos inteligentes</sub></li>
        <li><sub>Agendas personalizadas</sub></li>
        <li><sub>Gestão financeira</sub></li>

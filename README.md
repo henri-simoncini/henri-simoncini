@@ -49,14 +49,14 @@
     <hr>
     <h3>Projeto em destaque:</h3>
     <h4>inDash</h4>
-    <sup><i>Dashboard e gerenciamento para Freelancers</i></sup>
+    <i>Dashboard e gerenciamento para Freelancers</i>
     <ul>
        <li><sub>Gráficos inteligentes</sub></li>
        <li><sub>Agendas personalizadas</sub></li>
        <li><sub>Gestão financeira</sub></li>
     </ul>
-    <b>📌 Em desenvolvimento</b>
     <img src="https://media.tenor.com/OEAjabUzGKEAAAAi/microsoft-computer.gif" height="24px">
+    <b> Em desenvolvimento</b>
     </td>
   </tr>
 </table>

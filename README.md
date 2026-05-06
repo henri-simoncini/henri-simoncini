@@ -54,9 +54,9 @@
        <li><sub>Gráficos inteligentes</sub></li>
        <li><sub>Agendas personalizadas</sub></li>
        <li><sub>Gestão financeira</sub></li>
-    </ul>
-    <img src="https://media.tenor.com/OEAjabUzGKEAAAAi/microsoft-computer.gif" height="24px">
-    <b> Em desenvolvimento</b>
+    </ul>    
+    <b>Em desenvolvimento</b><br />
+    <img src="https://media.tenor.com/OEAjabUzGKEAAAAi/microsoft-computer.gif" height="24px">      
     </td>
   </tr>
 </table>

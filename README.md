@@ -62,7 +62,6 @@
     <img src="https://img.shields.io/badge/IFRJ-Ensino%20Técnico%20em%20Informática-006837?style=for-the-badge">
     <img src="https://img.shields.io/badge/UFF-Sistemas%20Computacionais-005CA9?style=for-the-badge">
     <img src="https://img.shields.io/badge/Alura-Cursos%20de%20Tecnologia-0A0A23?style=for-the-badge\&logo=alura\&logoColor=00FF88">
-
     </td>
   </tr>
 </table>

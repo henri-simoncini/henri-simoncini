@@ -42,7 +42,7 @@
     </td>
     <td width="50%" valign="top">
     <h3>Minha formação acadêmica:</h3>
-    <table>
+    <table width="30%">
       <tr>
         <td><h4>Instituição</h4></td>
         <td><h4>Tipo de ensino</h4></td>

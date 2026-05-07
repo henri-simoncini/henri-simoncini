@@ -44,7 +44,7 @@
     <h3>Minha formação acadêmica:</h3>
     <table>
       <tr>
-        <th><sub><h5>Instituição</h5></sub></th>
+        <th><h5><sub>Instituição</sub></h5></th>
         <th><h4>Tipo de ensino</h4></th>
         <th><h4>Período</h4></th>
       </tr>

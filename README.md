@@ -49,8 +49,8 @@
         <th>Período</th>
       </tr>
       <tr>
-        <td><sub>Instituto Federal do Rio de Janeiro (IFRJ)</sub></td>
-        <td><sub>Ensino médio técnico integrado em informática</sub></td>
+        <td><sub>Instituto Federal (IFRJ)</sub></td>
+        <td><sub>EM técnico integrado em informática</sub></td>
         <td><sub>2021-2024</sub></td>
       </tr>
       <tr>
@@ -59,7 +59,7 @@
         <td><sub>2017 - 2023</sub></td>
       </tr>
       <tr>
-        <td><sub>Universidade Federal Fluminense (via CEDERJ)</sub></td>
+        <td><sub>Universidade Federal (via CEDERJ)</sub></td>
         <td><sub>Tecnologia em Sistemas Computacionais</sub></td>
         <td><sub>2025 - presente</sub></td>
       </tr>

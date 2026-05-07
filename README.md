@@ -4,7 +4,7 @@
 </p>
 <table>
   <tr>
-    <td width="100%" valign="top">
+    <td row-span="2" width="100%" valign="top">
       <h5>💻 Desenvolvedor Web  |  🎨 UI/UX & Web Designer  |  🖌️ Identidade Visual (Logos & Flyers)  |  📸 Fotografia Criativa</h5>
     </td>
   </tr>

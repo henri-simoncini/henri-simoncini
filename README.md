@@ -44,9 +44,9 @@
     <h3>Minha formação acadêmica:</h3>
     <table>
       <tr>
-        <th><sub>Instituição</sub></th>
-        <th><sub>Tipo de ensino</sub></th>
-        <th><sub>Período</sub></th>
+        <th><sup>Instituição</sup></th>
+        <th><sup>Tipo de ensino</sup></th>
+        <th><sup>Período</sup></th>
       </tr>
       <tr>
         <td><sub>Instituto Federal do Rio de Janeiro (IFRJ)</sub></td>

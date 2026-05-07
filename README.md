@@ -42,14 +42,28 @@
     </td>
     <td width="50%" valign="top">
     <h3>Minha formação acadêmica:</h3>
-    <ul>
-      <li><b>🎓 Instituto Federal do Rio de Janeiro</b><br />
-      <sub><i>Ensino Médio Técnico Integrado em Informática</i></li></sub>
-      <li><b>🎓 SAYS Centro de Ensino</b><br />
-      <sub><i>Inglês Avançado (2017 – 2023)</i></li></sub>
-      <li><b>🎓 Universidade Federal Fluminense (via CEDERJ)</b><br />
-      <sub><i>Tecnologia em Sistemas Computacionais (cursando)</i></li></sub>
-    </ul>
+    <table>
+      <tr>
+        <td><h4>Instituição</h4></td>
+        <td><h4>Tipo de ensino</h4></td>
+        <td><h4>Período</h4></td>
+      </tr>
+      <tr>
+        <td>Instituto Federal do Rio de Janeiro (IFRJ)</td>
+        <td>Ensino médio técnico integrado em informática</td>
+        <td>2021-2024</td>
+      </tr>
+      <tr>
+        <td>SAYS Centro de Ensino</td>
+        <td>Inglês Avançado</td>
+        <td>2017 - 2023</td>
+      </tr>
+      <tr>
+        <td>Universidade Federal Fluminense (via CEDERJ)</td>
+        <td>Tecnologia em Sistemas Computacionais</td>
+        <td>2025 - presente</td>
+      </tr>
+    </table>
     <hr>
     <h3>Projeto em destaque:</h3>
     <h4>inDash</h4>

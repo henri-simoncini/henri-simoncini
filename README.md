@@ -62,7 +62,7 @@
     </td>
   </tr>
   <tr>
-    <td width="100%" valign="top">
+    <td colspan="2" width="100%" valign="top">
       <h3>Entre em contato:</h3>
       <p>
         <a href="https://www.instagram.com/henriq.devdesign/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>

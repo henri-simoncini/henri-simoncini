@@ -49,19 +49,19 @@
         <th><h5><sub>Período</sub></h5></th>
       </tr>
       <tr>
-        <td><h5><sub>Instituto Federal do Rio de Janeiro (IFRJ)</sub></h5></td>
-        <td><h5><sub>Ensino médio técnico integrado em informática</sub></h5></td>
-        <td><h5><sub>2021-2024</sub></h5></td>
+        <td><sub>Instituto Federal do Rio de Janeiro (IFRJ)</sub></td>
+        <td><sub>Ensino médio técnico integrado em informática</sub></td>
+        <td><sub>2021-2024</sub></td>
       </tr>
       <tr>
-        <td><h5><sub>SAYS Centro de Ensino</sub></h5></td>
-        <td><h5><sub>Inglês Avançado</sub></h5></td>
-        <td><h5><sub>2017 - 2023</sub></h5></td>
+        <td><sub>SAYS Centro de Ensino</sub></td>
+        <td><sub>Inglês Avançado</sub></td>
+        <td><sub>2017 - 2023</sub></td>
       </tr>
       <tr>
-        <td><h5><sub>Universidade Federal Fluminense (via CEDERJ)</sub></h5></td>
-        <td><h5><sub>Tecnologia em Sistemas Computacionais</sub></h5></td>
-        <td><h5><sub>2025 - presente</sub></h5></td>
+        <td><sub>Universidade Federal Fluminense (via CEDERJ)</sub></td>
+        <td><sub>Tecnologia em Sistemas Computacionais</sub></td>
+        <td><sub>2025 - presente</sub></td>
       </tr>
     </table>
     <hr>

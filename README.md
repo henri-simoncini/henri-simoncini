@@ -3,8 +3,8 @@
   <img src="https://media.tenor.com/dHk-LfzHrtwAAAAi/linux-computer.gif" height="50px">
 </p>
 <table>
-  <tr rowspan="2">
-    <td width="100%" valign="top">
+  <tr>
+    <td rowspan="2" width="100%" valign="top">
       <h5>💻 Desenvolvedor Web  |  🎨 UI/UX & Web Designer  |  🖌️ Identidade Visual (Logos & Flyers)  |  📸 Fotografia Criativa</h5>
     </td>
   </tr>

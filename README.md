@@ -42,15 +42,15 @@
     </td>
     <td width="50%" valign="top">
     <h3>Minha formação acadêmica:</h3>
-    <table width="30%">
+    <table>
       <tr>
         <td><h4>Instituição</h4></td>
         <td><h4>Tipo de ensino</h4></td>
         <td><h4>Período</h4></td>
       </tr>
       <tr>
-        <td>Instituto Federal do Rio de Janeiro (IFRJ)</td>
-        <td>Ensino médio técnico integrado em informática</td>
+        <td>Instituto Federal <br />do Rio de Janeiro (IFRJ)</td>
+        <td>Ensino médio técnico <br />integrado em informática</td>
         <td>2021-2024</td>
       </tr>
       <tr>

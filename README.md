@@ -2,8 +2,12 @@
 <p align="left">
   <img src="https://media.tenor.com/dHk-LfzHrtwAAAAi/linux-computer.gif" height="50px">
 </p>
-<h5>💻 Desenvolvedor Web  |  🎨 UI/UX & Web Designer  |  🖌️ Identidade Visual (Logos & Flyers)  |  📸 Fotografia Criativa</h5>
 <table>
+  <tr>
+    <td width="100%" valign="top">
+      <h5>💻 Desenvolvedor Web  |  🎨 UI/UX & Web Designer  |  🖌️ Identidade Visual (Logos & Flyers)  |  📸 Fotografia Criativa</h5>
+    </td>
+  </tr>
   <tr>
     <td width="50%" valign="top">
     <h3>Sobre mim:</h3>
@@ -57,12 +61,17 @@
     <img src="https://media.tenor.com/OEAjabUzGKEAAAAi/microsoft-computer.gif" height="24px">   
     </td>
   </tr>
+  <tr>
+    <td width="100%" valign="top">
+      <h3>Entre em contato:</h3>
+      <p>
+        <a href="https://www.instagram.com/henriq.devdesign/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+        <a href="https://discord.gg/xZh9Z6ECf8"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
+        <a href="https://api.whatsapp.com/send/?phone=5522981600830&type=phone_number&app_absent=0"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+        <a href="https://www.linkedin.com/in/pedro-henrique-simoncini-a71453276/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+        <a href="https://henri-simoncini.github.io/linktree/"><img src="https://img.shields.io/badge/Linktree-43E55E?style=for-the-badge&logo=linktree&logoColor=black"></a>
+      </p>
+    </td>
+  </tr>
 </table>
-<h3>Entre em contato:</h3>
-<p>
-  <a href="https://www.instagram.com/henriq.devdesign/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="https://discord.gg/xZh9Z6ECf8"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
-  <a href="https://api.whatsapp.com/send/?phone=5522981600830&type=phone_number&app_absent=0"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/pedro-henrique-simoncini-a71453276/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://henri-simoncini.github.io/linktree/"><img src="https://img.shields.io/badge/Linktree-43E55E?style=for-the-badge&logo=linktree&logoColor=black"></a>
-</p>
+

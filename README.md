@@ -43,9 +43,9 @@
     <td width="50%" valign="top">
     <h3>Minha formação acadêmica:</h3>
     <ul>
-      <li><h5>Instituto Federal do Rio de Janeiro (IFRJ)</h5><br /><sub>Ensino médio técnico integrado em informática</sub></li>
-      <li>SAYS Centro de Ensino (IFRJ)<br /><sub>Inglês Avançado</sub></li>
-      <li>Universidade Federal Fluminense (via CEDERJ)<br /><sub>Tecnologia em Sistemas Computacionais</sub></li>
+      <li><b>Instituto Federal do Rio de Janeiro (IFRJ)</b><br /><sub>Ensino médio técnico integrado em informática</sub></li>
+      <li><b>SAYS Centro de Ensino (IFRJ)</b><br /><sub>Inglês Avançado</sub></li>
+      <li><b>Universidade Federal Fluminense (via CEDERJ)</b><br /><sub>Tecnologia em Sistemas Computacionais</sub></li>
     </ul>
     <hr>
     <h3>Projeto em destaque:</h3>

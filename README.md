@@ -61,6 +61,11 @@
   </tr>
   <tr>
     <td colspan="2" width="100%" valign="top">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=henri-simoncini&layout=compact&theme=tokyonight&hide_border=true" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" width="100%" valign="top">
       <h3>Entre em contato:</h3>
       <p>
         <a href="https://www.instagram.com/henriq.devdesign/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>

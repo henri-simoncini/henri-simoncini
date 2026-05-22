@@ -61,7 +61,7 @@
   </tr>
   <tr>
     <td colspan="2" width="100%" valign="top">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=henri-simoncini&layout=compact&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+      <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=henri-simoncini&show_icons=true&theme=tokyonight&hide_border=true"/>
     </td>
   </tr>
   <tr>

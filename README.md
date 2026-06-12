@@ -59,7 +59,7 @@
     </ul>
     <br />
     <b>👉 Em desenvolvimento</b><br /><br />
-    <img src="https://media.tenor.com/OEAjabUzGKEAAAAi/microsoft-computer.gif" height="24px">   
+    <img src="https://media.tenor.com/OEAjabUzGKEAAAAi/microsoft-computer.gif" height="48px">   
     </td>
   </tr>
   <tr>

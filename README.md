@@ -1,4 +1,5 @@
 <h1>Oii, eu sou o Henrique Simoncini!<br /></h1>
+<h4>Estudante de Tecnologia em Sistemas Computacionais | Full Stack Developer</h4>
 <p align="left">
   <img src="https://media.tenor.com/dHk-LfzHrtwAAAAi/linux-computer.gif" height="50px">
 </p>

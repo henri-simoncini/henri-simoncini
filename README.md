@@ -12,8 +12,7 @@
   <tr>
     <td width="50%" valign="top">
     <h3>Sobre mim:</h3>
-    <p>Desenvolvo sistemas e websites sob medida, focados nas necessidades do cliente.
-    Integro fotografia ao design para criar experiências visuais únicas, atuando tanto no front-end quanto no back-end em projetos de diferentes níveis de complexidade.</p>
+    <p>Sou um desenvolvedor Full Stack e estudante do 3º semestre de <b>Tecnologias em Sistemas Computacionais</b> na <b>Universidade Federal Fluminense</b>. Minha jornada na tecnologia teve início no ensino médio técnico em Informática (IFRJ), o que me deu uma base sólida que hoje aplico em projetos de desenvolvimento de software.</p>
     <hr>
     <h3>Tecnologias que domino:</h3>
     <h5>💻 Desenvolvimento</h5>
